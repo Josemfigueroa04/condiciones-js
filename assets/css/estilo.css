@@ -1,0 +1,25 @@
+*{
+    margin-top: 10px;
+}
+img{
+    max-width: 300px;
+    max-height: 300px;
+   
+}
+
+#resultado{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
